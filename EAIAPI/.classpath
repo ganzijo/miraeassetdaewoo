@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/IBM/MQ/java/lib/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="C:/01.project/미래에셋대우(Java)/log4j-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/01.project/미래에셋대우(Java)/log4j-core-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/01.project/미래에셋대우(Java)/xalan.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
